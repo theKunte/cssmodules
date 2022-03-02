@@ -1,4 +1,11 @@
 .title {
   font-family: "Roboto", sans-serif;
   font-size: 4em;
+  color: white;
+  position: fixed;
+  left: 50%;
+  transform: translate(-50%, 0);
+  width: 100%;
+  margin-bottom: 50px;
+  background-color: rgba(0, 0, 0, 0.5);
 }
