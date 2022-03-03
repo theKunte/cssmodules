@@ -6,7 +6,7 @@
   }
 }
 
-@media (max-width: 768) {
+@media (max-width: 768px) {
   .grid {
     column-gap: 10px;
     column-count: 1;
